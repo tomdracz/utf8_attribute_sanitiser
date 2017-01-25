@@ -32,7 +32,7 @@ In your model add utf8_attribute_sanitiser, specyfing list of attribute names to
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/utf8_attribute_sanitiser.
+Bug reports and pull requests are welcome on GitHub at https://github.com/tomdracz/utf8_attribute_sanitiser.
 
 
 ## License
