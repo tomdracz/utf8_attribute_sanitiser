@@ -14,3 +14,7 @@ class MockModel
     instance_variable_get(:"@#{key}")
   end
 end
+
+class AggressiveCleanMockModel < MockModel
+  utf8_attribute_sanitiser :name, :age, method: :aggressive
+end
